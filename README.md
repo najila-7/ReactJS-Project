@@ -1,5 +1,5 @@
 Step 1:
-git clone https://github.com/najila-7/Bar-Chart-and-Scatter-Plot-using-ReactJS.git
+git clone https://github.com/najila-7/ReactJS-Project.git
 
 Step 2:
 cd [local repository]
